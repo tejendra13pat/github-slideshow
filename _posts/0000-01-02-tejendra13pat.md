@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our Update slide!"
 ---
-New Texr
 Use the left arrow to go back!
