@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our Update slide!"
 ---
-Just Update
+Just Update :(
 Use the left arrow to go back!
